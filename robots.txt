@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-nto9zt.eurotogel89kgs.site/sitemap.xml
